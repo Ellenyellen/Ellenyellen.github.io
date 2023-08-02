@@ -1,3 +1,4 @@
 .title {
     color: #9c1429;
+    font-size: 25px;
 }
